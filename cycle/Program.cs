@@ -115,7 +115,7 @@
             //    Console.WriteLine("Введите целое число больше 1: ");
             //}
 
-            //for (int i = 2; i < Math.Sqrt(inputNumber); i++)
+            //for (int i = 2; i <= Math.Sqrt(inputNumber); i++)
             //{
             //    if (inputNumber % i == 0)
             //    {
